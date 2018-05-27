@@ -8,7 +8,7 @@
     <artifactId>helloworldapi</artifactId>
     <version>1.0-SNAPSHOT</version>
     <configuration>
-        <appName>hvoicemailarquisoft</appName>
+        <appName>voicemailarquisoft</appName>
     </configuration>
     <dependencies>
         <dependency>
